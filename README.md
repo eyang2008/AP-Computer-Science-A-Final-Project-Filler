@@ -1,8 +1,4 @@
 Final Project for AP Computer Science A, 2024
+Created alongside Austin Bea
 
-Filler
-A four-player game. Every round, one player picks a color, one that is not picked by the other players. 
-You claim boxes with picking those colors. 
-For example, if you were originally green, an opponent was red, and there was a purple square next to you. 
-If you chose the purple, you would claim the purple square next to you. 
-The purpose of the game is to claim as many squares as possible.
+In the four-player adaptation of Filler, the objective is for players to capture the most tiles on a grid-based board by the end of the game. Each player starts from a different corner, with a unique color to represent them. Players take turns, selecting new colors from those not currently selected by any player and adjacent to their existing territory. When a color is chosen, all tiles of that color adjacent to the player’s current area are captured by that player. Players cannot repeat the same color they have selected and can only select adjacent colors. The game ends when no more moves are available and all the tiles on the board have been captured, and the player who captured the most tiles wins. Players must balance efficient expansion with strategic blocking of opponents and maintain diversity in their color choices to avoid running out of options in later turns. This allows for a competitive and strategic gameplay experience for four players.
