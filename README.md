@@ -1,4 +1,3 @@
-Final Project for AP Computer Science A, 2024
-Created alongside Austin Bea
+Final Project for AP Computer Science A, 2024 created alongside Austin Bea
 
 In the four-player adaptation of Filler, the objective is for players to capture the most tiles on a grid-based board by the end of the game. Each player starts from a different corner, with a unique color to represent them. Players take turns, selecting new colors from those not currently selected by any player and adjacent to their existing territory. When a color is chosen, all tiles of that color adjacent to the player’s current area are captured by that player. Players cannot repeat the same color they have selected and can only select adjacent colors. The game ends when no more moves are available and all the tiles on the board have been captured, and the player who captured the most tiles wins. Players must balance efficient expansion with strategic blocking of opponents and maintain diversity in their color choices to avoid running out of options in later turns. This allows for a competitive and strategic gameplay experience for four players.
